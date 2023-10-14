@@ -70,3 +70,5 @@ Confluence is a popular collaboration and documentation tool developed by Atlass
     - A wide range of add-ons and integrations are available through the Atlassian Marketplace to extend Confluence's functionality.
 
 It should be a versatile tool used for a variety of purposes, including documentation, project management, knowledge sharing, and collaboration. Its features make it suitable for teams of all sizes, from small startups to large enterprises, to streamline their work and enhance productivity.
+
+Few UI's images i am sharing for you to understand the level of detailed and UI , I am looking for
