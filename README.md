@@ -1,6 +1,8 @@
 - This project aims to develop a collaborative workspace and project management tool to rival Confluence and ClickUp, while emphasizing a user-friendly and visually appealing UI/UX.
 
-Confluence is a popular collaboration and documentation tool developed by Atlassian. It's designed to help teams collaborate, share knowledge, and manage projects more effectively. Here's a detailed description of its key features:
+It should be a popular collaboration and documentation tool . design to help teams collaborate, share knowledge, and manage projects more effectively. Here's a detailed description of its key features:
+
+It will be a opensource project with support for free to download and use.
 
 1. **Rich Text Editor:**
    - It should offer a user-friendly, WYSIWYG (What You See Is What You Get) editor or any rich editor for creating and editing content.
