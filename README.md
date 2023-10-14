@@ -2,7 +2,9 @@
 
 It should be a popular collaboration and documentation tool . design to help teams collaborate, share knowledge, and manage projects more effectively. Here's a detailed description of its key features:
 
-It will be a opensource project with support for free to download and use.
+***It will be a opensource project with support for free to download , Install and use.***
+***It should also have app as SAAS paid service***
+***It should have ability to import confluence web spaces***
 
 1. **Rich Text Editor:**
    - It should offer a user-friendly, WYSIWYG (What You See Is What You Get) editor or any rich editor for creating and editing content.
@@ -27,7 +29,7 @@ It will be a opensource project with support for free to download and use.
    - Robust search capabilities enable users to find specific content quickly.
    - Full-text search and advanced filtering options make it easy to locate information.
 
-7. **Permissions and Access Control:**
+7. **User Management, Permissions and Access Control:**
    - You can set granular permissions to control who can view, edit, and delete content.
    - Different access levels for spaces and pages provide security and privacy options.
 
@@ -70,6 +72,8 @@ It will be a opensource project with support for free to download and use.
 
 19. **Add-ons and Marketplace:**
     - A wide range of add-ons and integrations are available through the Atlassian Marketplace to extend Confluence's functionality.
+
+
    
 ### Few UI images, i am sharing for you to understand the level of detailed and UI , I am looking for
 
