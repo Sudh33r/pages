@@ -3,10 +3,11 @@
 It should be a popular collaboration and documentation tool . design to help teams collaborate, share knowledge, and manage projects more effectively. Here's a detailed description of its key features:
 
 ### Need to Built with techstack [@nextjs](https://nextjs.org), [@tailwindcss](https://tailwindcss.com/docs/installation), and [@vercel](https://vercel.com/dashboard)
+### Some of the example themes [@shacdn](https://ui.shadcn.com/themes)
 
 ***It will be a opensource project with support for free to download , Install and use.***
-***It should also have app as SAAS paid service***
-***It should have ability to import confluence web spaces***
+### It should also have app as SAAS paid service
+### It should have ability to import confluence web spaces
 
 1. **Rich Text Editor:**
    - It should offer a user-friendly, WYSIWYG (What You See Is What You Get) editor or any rich editor for creating and editing content.
