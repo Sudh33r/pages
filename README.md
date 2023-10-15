@@ -2,6 +2,8 @@
 
 It should be a popular collaboration and documentation tool . design to help teams collaborate, share knowledge, and manage projects more effectively. Here's a detailed description of its key features:
 
+### Need to Built with techstack [@nextjs](https://nextjs.org), [@tailwindcss](https://tailwindcss.com/docs/installation), and [@vercel](https://vercel.com/dashboard)
+
 ***It will be a opensource project with support for free to download , Install and use.***
 ***It should also have app as SAAS paid service***
 ***It should have ability to import confluence web spaces***
